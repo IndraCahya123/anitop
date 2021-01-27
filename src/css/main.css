@@ -1,0 +1,12 @@
+body{
+    font-family: 'Nunito', 'sans-serif';
+    background: #0A0908;
+    color: #fff;
+}
+
+hr{
+    width: 90%;
+    margin: 70px auto;
+    height: 5px;
+    background: #fff;
+}
